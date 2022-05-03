@@ -10,7 +10,6 @@ country_decisions = {
 		allow = {
 			not = {
 				ai = yes
-				has_country_flag = wreckingpila_on
 			}
 		}
 		effect = {
@@ -33,7 +32,6 @@ country_decisions = {
 			not = {
 				ai = yes
 			}
-			has_country_flag = wreckingpila_on
 		}
 		effect = {
 			clr_country_flag = wreckingpila_on
@@ -55,7 +53,6 @@ country_decisions = {
 			not = {
 				ai = yes
 			}
-			has_country_flag = wreckingpila_on
 		}
 		effect = {
 			country_event = { id = wreckingpila_country_event.0 }
@@ -72,12 +69,17 @@ country_decisions = {
 				ai = yes
 			}
 			has_country_flag = wreckingpila_on
+			any_subject_country = {
+				is_subject_other_than_tributary_trigger = yes
+			}
 		}
 		allow = {
 			not = {
 				ai = yes
 			}
-			has_country_flag = wreckingpila_on
+			any_subject_country = {
+				is_subject_other_than_tributary_trigger = yes
+			}
 		}
 		effect = {
 			country_event = { id = wreckingpila_subjects_event.0 }
