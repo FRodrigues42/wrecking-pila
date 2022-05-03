@@ -1,0 +1,89 @@
+country_decisions = {
+
+	wreckingpila_toggle_on = {
+		potential = {
+			not = {
+				ai = yes
+				has_country_flag = wreckingpila_on
+			}
+		}
+		allow = {
+			not = {
+				ai = yes
+				has_country_flag = wreckingpila_on
+			}
+		}
+		effect = {
+			set_country_flag = wreckingpila_on
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	wreckingpila_toggle_off = {
+		major = yes
+		potential = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		allow = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		effect = {
+			clr_country_flag = wreckingpila_on
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	wreckingpila_country = {
+		major = yes
+		potential = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		allow = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		effect = {
+			country_event = { id = wreckingpila_country_event.0 }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	
+	wreckingpila_subjects = {
+		major = yes
+		potential = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		allow = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		effect = {
+			country_event = { id = wreckingpila_subjects_event.0 }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}
