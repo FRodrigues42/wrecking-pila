@@ -1,7 +1,7 @@
-version="0.33"
+version="1.33"
 tags={
 	"Gameplay"
 }
-name="Is Quasi Wrecking Pila Venit"
-supported_version="1.33.3"
+name="Wrecking Pila"
+supported_version="1.33.*"
 remote_file_id="2803012237"

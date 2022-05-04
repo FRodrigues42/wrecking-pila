@@ -1,12 +1,12 @@
 ﻿l_english:
  #DECISIONS
- wreckingpila_toggle_on_title: "Wrecking Pila Menu"
+ wreckingpila_toggle_on_title: "Wrecking Pila - Menu"
  wreckingpila_toggle_on_desc: "Reveal the Wrecking Pila Menu"
- wreckingpila_toggle_off_title: "Hide Wrecking Pila Menu"
+ wreckingpila_toggle_off_title: "Wrecking Pila - Hide Menu"
  wreckingpila_toggle_off_desc: "Hide the Wrecking Pila Menu"
- wreckingpila_country_title: "Wreck your buildings Menu"
+ wreckingpila_country_title: "Wrecking Pila - Your buildings Menu"
  wreckingpila_country_desc: "Launch the event menu to remove your country's buildings"
- wreckingpila_subjects_title: "Wreck your subjects' buildings Menu"
+ wreckingpila_subjects_title: "Wrecking Pila - Subjects' buildings Menu"
  wreckingpila_subjects_desc: "Launch event menu to remove your subjects' buildings"
  
  wreckingpila_country_event.title: "Wrecking Pila [Root.GetName]"
