@@ -1,7 +1,8 @@
-namespace = wreckingpila_buildings_country_event
+namespace = wreckingpila_buildings_event
 
+# ROOT
 country_event = {
-	id = wreckingpila_buildings_country_event.0
+	id = wreckingpila_buildings_event.0
 	title = "wreckingpila_buildings_country_event.title"
 	desc = "wreckingpila_buildings_country_event.desc"
 	picture = GREAT_BUILDING_eventPicture
@@ -21,7 +22,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -37,7 +38,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -51,7 +52,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -64,7 +65,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -77,7 +78,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -90,7 +91,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -103,7 +104,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -116,7 +117,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -129,7 +130,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -142,7 +143,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -161,7 +162,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -173,7 +174,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -185,7 +186,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -197,7 +198,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -209,7 +210,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -221,7 +222,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -236,7 +237,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -252,7 +253,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -268,7 +269,7 @@ country_event = {
 
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -284,7 +285,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -300,7 +301,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -316,7 +317,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -332,7 +333,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -348,7 +349,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -364,7 +365,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -380,7 +381,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -396,7 +397,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -412,7 +413,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -428,7 +429,7 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
@@ -444,14 +445,465 @@ country_event = {
 		
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.91
 			}
 		}
 	}
 }
 
 country_event = {
-	id = wreckingpila_buildings_subjects_event.0
+	id = wreckingpila_buildings_event.91
+	title = "wreckingpila_buildings_country_event.title"
+	desc = "wreckingpila_buildings_country_event.desc"
+	picture = GREAT_BUILDING_eventPicture
+	is_triggered_only = yes
+	
+	option = {
+		name = "wreckingpila_buildings_exit"
+		ai_chance = { factor = 100 }
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.8"
+		highlight = yes
+		every_owned_province = {
+			remove_building = temple
+			remove_building = cathedral
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.9"
+		highlight = yes
+		every_owned_province = {
+			remove_building = fort_15th
+			remove_building = fort_16th
+			remove_building = fort_17th
+			remove_building = fort_18th
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.1"
+		every_owned_province = {
+			remove_building = marketplace
+			remove_building = trade_depot
+			remove_building = stock_exchange
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.2"
+		every_owned_province = {
+			remove_building = courthouse
+			remove_building = town_hall
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.3"
+		every_owned_province = {
+			remove_building = dock
+			remove_building = drydock
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.4"
+		every_owned_province = {
+			remove_building = shipyard
+			remove_building = grand_shipyard
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.5"
+		every_owned_province = {
+			remove_building = workshop
+			remove_building = counting_house
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.6"
+		every_owned_province = {
+			remove_building = barracks
+			remove_building = training_fields
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.7"
+		every_owned_province = {
+			remove_building = regimental_camp
+			remove_building = conscription_center
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.10"
+		every_owned_province = {
+			remove_building = coastal_defence
+			remove_building = naval_battery
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.11"
+		every_owned_province = {
+			remove_building = manufactory
+			remove_building = wharf
+			remove_building = weapons
+			remove_building = textile
+			remove_building = plantations
+			remove_building = tradecompany
+			remove_building = farm_estate
+			remove_building = mills
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.12"
+		every_owned_province = {
+			remove_building = ramparts
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.13"
+		every_owned_province = {
+			remove_building = impressment_offices
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.14"
+		every_owned_province = {
+			remove_building = state_house
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.15"
+		every_owned_province = {
+			remove_building = soldier_households
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.16"
+		every_owned_province = {
+			remove_building = furnace
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.1"
+		
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+		
+		every_owned_province = {
+			remove_building = cannon_foundry
+		}
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.2"
+		
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = metalworking_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.3"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = munition_factory
+		}
+
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.4"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = wood_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.5"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = leather_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.6"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = sculpture_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.7"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = jewellery_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.8"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = uniforms_workshop
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.9"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = steam_factory
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.10"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = steam_engine_manu
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.11"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = spectacle_factory
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.12"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = cigars_factory
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.13"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = chocolate_factory
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+
+	option = {
+		name = "wreckingpila_buildings_country_event.tge.14"
+
+		trigger = { has_global_flag = trade_goods_expanded_mod_active }
+
+		every_owned_province = {
+			remove_building = mine
+		}
+		
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.0
+			}
+		}
+	}
+}
+
+# SUBJECTS
+country_event = {
+	id = wreckingpila_buildings_event.100
 	title = "wreckingpila_buildings_subjects_event.title"
 	desc = "wreckingpila_buildings_subjects_event.desc"
 	picture = GREAT_BUILDING_eventPicture
@@ -473,7 +925,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.191
 			}
 		}
 	}
@@ -491,7 +943,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.191
 			}
 		}
 	}
@@ -506,7 +958,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -519,7 +971,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -532,7 +984,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -545,7 +997,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -558,7 +1010,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -571,7 +1023,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -584,7 +1036,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -597,7 +1049,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -616,7 +1068,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -628,7 +1080,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -640,7 +1092,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -652,7 +1104,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -664,7 +1116,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -676,7 +1128,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -691,7 +1143,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -707,7 +1159,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -723,7 +1175,7 @@ country_event = {
 		}
 
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -739,7 +1191,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -755,7 +1207,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -771,7 +1223,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -787,7 +1239,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -803,7 +1255,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -819,7 +1271,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -835,7 +1287,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -851,7 +1303,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -867,7 +1319,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -883,7 +1335,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 
@@ -899,463 +1351,13 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.191
 		}
 	}
 }
 
 country_event = {
-	id = wreckingpila_buildings_country_event.91
-	title = "wreckingpila_buildings_country_event.title"
-	desc = "wreckingpila_buildings_country_event.desc"
-	picture = GREAT_BUILDING_eventPicture
-	is_triggered_only = yes
-	
-	option = {
-		name = "wreckingpila_buildings_exit"
-		ai_chance = { factor = 100 }
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.8"
-		highlight = yes
-		every_owned_province = {
-			remove_building = temple
-			remove_building = cathedral
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.9"
-		highlight = yes
-		every_owned_province = {
-			remove_building = fort_15th
-			remove_building = fort_16th
-			remove_building = fort_17th
-			remove_building = fort_18th
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.1"
-		every_owned_province = {
-			remove_building = marketplace
-			remove_building = trade_depot
-			remove_building = stock_exchange
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.2"
-		every_owned_province = {
-			remove_building = courthouse
-			remove_building = town_hall
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.3"
-		every_owned_province = {
-			remove_building = dock
-			remove_building = drydock
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.4"
-		every_owned_province = {
-			remove_building = shipyard
-			remove_building = grand_shipyard
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.5"
-		every_owned_province = {
-			remove_building = workshop
-			remove_building = counting_house
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.6"
-		every_owned_province = {
-			remove_building = barracks
-			remove_building = training_fields
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.7"
-		every_owned_province = {
-			remove_building = regimental_camp
-			remove_building = conscription_center
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.10"
-		every_owned_province = {
-			remove_building = coastal_defence
-			remove_building = naval_battery
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.11"
-		every_owned_province = {
-			remove_building = manufactory
-			remove_building = wharf
-			remove_building = weapons
-			remove_building = textile
-			remove_building = plantations
-			remove_building = tradecompany
-			remove_building = farm_estate
-			remove_building = mills
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.12"
-		every_owned_province = {
-			remove_building = ramparts
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.13"
-		every_owned_province = {
-			remove_building = impressment_offices
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.14"
-		every_owned_province = {
-			remove_building = state_house
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.15"
-		every_owned_province = {
-			remove_building = soldier_households
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.16"
-		every_owned_province = {
-			remove_building = furnace
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.1"
-		
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-		
-		every_owned_province = {
-			remove_building = cannon_foundry
-		}
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.2"
-		
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = metalworking_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.3"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = munition_factory
-		}
-
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.4"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = wood_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.5"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = leather_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.6"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = sculpture_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.7"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = jewellery_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.8"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = uniforms_workshop
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.9"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = steam_factory
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.10"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = steam_engine_manu
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.11"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = spectacle_factory
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.12"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = cigars_factory
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.13"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = chocolate_factory
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.14"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = mine
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_country_event.91
-			}
-		}
-	}
-}
-
-country_event = {
-	id = wreckingpila_buildings_subjects_event.91
+	id = wreckingpila_buildings_event.191
 	title = "wreckingpila_buildings_subjects_event.title"
 	desc = "wreckingpila_buildings_subjects_event.desc"
 	picture = GREAT_BUILDING_eventPicture
@@ -1377,7 +1379,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.100
 			}
 		}
 	}
@@ -1395,7 +1397,7 @@ country_event = {
 		}
 		hidden_effect = {
 			country_event = {
-				id = wreckingpila_buildings_country_event.91
+				id = wreckingpila_buildings_event.100
 			}
 		}
 	}
@@ -1410,7 +1412,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1423,7 +1425,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1436,7 +1438,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1449,7 +1451,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1462,7 +1464,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1475,7 +1477,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1488,7 +1490,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1501,7 +1503,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1520,7 +1522,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1532,7 +1534,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1544,7 +1546,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1556,7 +1558,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1568,7 +1570,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1580,7 +1582,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1595,7 +1597,7 @@ country_event = {
 			}
 		}
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1611,7 +1613,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1627,7 +1629,7 @@ country_event = {
 		}
 
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1643,7 +1645,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1659,7 +1661,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1675,7 +1677,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1691,7 +1693,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1707,7 +1709,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1723,7 +1725,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1739,7 +1741,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1755,7 +1757,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1771,7 +1773,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1787,7 +1789,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 
@@ -1803,7 +1805,7 @@ country_event = {
 		}
 		
 		country_event = {
-			id = wreckingpila_buildings_subjects_event.91
+			id = wreckingpila_buildings_event.100
 		}
 	}
 }

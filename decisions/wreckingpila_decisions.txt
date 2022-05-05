@@ -55,7 +55,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			country_event = { id = wreckingpila_buildings_country_event.0 }
+			country_event = { id = wreckingpila_buildings_event.0 }
 		}
 		ai_will_do = {
 			factor = 0
@@ -82,7 +82,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			country_event = { id = wreckingpila_buildings_subjects_event.0 }
+			country_event = { id = wreckingpila_buildings_event.100 }
 		}
 		ai_will_do = {
 			factor = 0
