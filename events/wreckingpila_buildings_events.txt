@@ -19,6 +19,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = temple
 			remove_building = cathedral
+
+			cancel_construction = temple
+			cancel_construction = cathedral
 		}
 		hidden_effect = {
 			country_event = {
@@ -35,6 +38,11 @@ country_event = {
 			remove_building = fort_16th
 			remove_building = fort_17th
 			remove_building = fort_18th
+
+			cancel_construction = fort_15th
+			cancel_construction = fort_16th
+			cancel_construction = fort_17th
+			cancel_construction = fort_18th
 		}
 		hidden_effect = {
 			country_event = {
@@ -49,6 +57,10 @@ country_event = {
 			remove_building = marketplace
 			remove_building = trade_depot
 			remove_building = stock_exchange
+
+			cancel_construction = marketplace
+			cancel_construction = trade_depot
+			cancel_construction = stock_exchange
 		}
 		hidden_effect = {
 			country_event = {
@@ -62,6 +74,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = courthouse
 			remove_building = town_hall
+
+			cancel_construction = courthouse
+			cancel_construction = town_hall
 		}
 		hidden_effect = {
 			country_event = {
@@ -75,6 +90,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = dock
 			remove_building = drydock
+
+			cancel_construction = dock
+			cancel_construction = drydock
 		}
 		hidden_effect = {
 			country_event = {
@@ -88,6 +106,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = shipyard
 			remove_building = grand_shipyard
+
+			cancel_construction = shipyard
+			cancel_construction = grand_shipyard
 		}
 		hidden_effect = {
 			country_event = {
@@ -101,6 +122,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = workshop
 			remove_building = counting_house
+
+			cancel_construction = workshop
+			cancel_construction = counting_house
 		}
 		hidden_effect = {
 			country_event = {
@@ -114,6 +138,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = barracks
 			remove_building = training_fields
+
+			cancel_construction = barracks
+			cancel_construction = training_fields
 		}
 		hidden_effect = {
 			country_event = {
@@ -127,6 +154,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = regimental_camp
 			remove_building = conscription_center
+
+			cancel_construction = regimental_camp
+			cancel_construction = conscription_center
 		}
 		hidden_effect = {
 			country_event = {
@@ -140,6 +170,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = coastal_defence
 			remove_building = naval_battery
+
+			cancel_construction = coastal_defence
+			cancel_construction = naval_battery
 		}
 		hidden_effect = {
 			country_event = {
@@ -159,6 +192,15 @@ country_event = {
 			remove_building = tradecompany
 			remove_building = farm_estate
 			remove_building = mills
+
+			cancel_construction = manufactory
+			cancel_construction = wharf
+			cancel_construction = weapons
+			cancel_construction = textile
+			cancel_construction = plantations
+			cancel_construction = tradecompany
+			cancel_construction = farm_estate
+			cancel_construction = mills
 		}
 		hidden_effect = {
 			country_event = {
@@ -171,6 +213,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.12"
 		every_owned_province = {
 			remove_building = ramparts
+
+			cancel_construction = ramparts
 		}
 		hidden_effect = {
 			country_event = {
@@ -183,6 +227,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.13"
 		every_owned_province = {
 			remove_building = impressment_offices
+
+			cancel_construction = impressment_offices
 		}
 		hidden_effect = {
 			country_event = {
@@ -195,6 +241,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.14"
 		every_owned_province = {
 			remove_building = state_house
+
+			cancel_construction = state_house
 		}
 		hidden_effect = {
 			country_event = {
@@ -207,6 +255,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.15"
 		every_owned_province = {
 			remove_building = soldier_households
+
+			cancel_construction = soldier_households
 		}
 		hidden_effect = {
 			country_event = {
@@ -219,6 +269,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.16"
 		every_owned_province = {
 			remove_building = furnace
+
+			cancel_construction = furnace
 		}
 		hidden_effect = {
 			country_event = {
@@ -234,6 +286,8 @@ country_event = {
 		
 		every_owned_province = {
 			remove_building = cannon_foundry
+
+			cancel_construction = cannon_foundry
 		}
 		hidden_effect = {
 			country_event = {
@@ -249,6 +303,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = metalworking_workshop
+
+			cancel_construction = metalworking_workshop
 		}
 		
 		hidden_effect = {
@@ -265,6 +321,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = munition_factory
+
+			cancel_construction = munition_factory
 		}
 
 		hidden_effect = {
@@ -281,6 +339,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = wood_workshop
+
+			cancel_construction = wood_workshop
 		}
 		
 		hidden_effect = {
@@ -297,6 +357,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = leather_workshop
+
+			cancel_construction = leather_workshop
 		}
 		
 		hidden_effect = {
@@ -313,6 +375,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = sculpture_workshop
+
+			cancel_construction = sculpture_workshop
 		}
 		
 		hidden_effect = {
@@ -329,6 +393,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = jewellery_workshop
+
+			cancel_construction = jewellery_workshop
 		}
 		
 		hidden_effect = {
@@ -345,6 +411,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = uniforms_workshop
+
+			cancel_construction = uniforms_workshop
 		}
 		
 		hidden_effect = {
@@ -361,6 +429,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = steam_factory
+
+			cancel_construction = steam_factory
 		}
 		
 		hidden_effect = {
@@ -377,6 +447,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = steam_engine_manu
+
+			cancel_construction = steam_engine_manu
 		}
 		
 		hidden_effect = {
@@ -393,6 +465,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = spectacle_factory
+
+			cancel_construction = spectacle_factory
 		}
 		
 		hidden_effect = {
@@ -409,6 +483,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = cigars_factory
+
+			cancel_construction = cigars_factory
 		}
 		
 		hidden_effect = {
@@ -425,6 +501,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = chocolate_factory
+
+			cancel_construction = chocolate_factory
 		}
 		
 		hidden_effect = {
@@ -441,6 +519,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = mine
+
+			cancel_construction = mine
 		}
 		
 		hidden_effect = {
@@ -469,6 +549,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = temple
 			remove_building = cathedral
+
+			cancel_construction = temple
+			cancel_construction = cathedral
 		}
 		hidden_effect = {
 			country_event = {
@@ -485,6 +568,11 @@ country_event = {
 			remove_building = fort_16th
 			remove_building = fort_17th
 			remove_building = fort_18th
+
+			cancel_construction = fort_15th
+			cancel_construction = fort_16th
+			cancel_construction = fort_17th
+			cancel_construction = fort_18th
 		}
 		hidden_effect = {
 			country_event = {
@@ -499,6 +587,10 @@ country_event = {
 			remove_building = marketplace
 			remove_building = trade_depot
 			remove_building = stock_exchange
+
+			cancel_construction = marketplace
+			cancel_construction = trade_depot
+			cancel_construction = stock_exchange
 		}
 		hidden_effect = {
 			country_event = {
@@ -512,6 +604,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = courthouse
 			remove_building = town_hall
+
+			cancel_construction = courthouse
+			cancel_construction = town_hall
 		}
 		hidden_effect = {
 			country_event = {
@@ -525,6 +620,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = dock
 			remove_building = drydock
+
+			cancel_construction = dock
+			cancel_construction = drydock
 		}
 		hidden_effect = {
 			country_event = {
@@ -538,6 +636,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = shipyard
 			remove_building = grand_shipyard
+
+			cancel_construction = shipyard
+			cancel_construction = grand_shipyard
 		}
 		hidden_effect = {
 			country_event = {
@@ -551,6 +652,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = workshop
 			remove_building = counting_house
+
+			cancel_construction = workshop
+			cancel_construction = counting_house
 		}
 		hidden_effect = {
 			country_event = {
@@ -564,6 +668,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = barracks
 			remove_building = training_fields
+
+			cancel_construction = barracks
+			cancel_construction = training_fields
 		}
 		hidden_effect = {
 			country_event = {
@@ -577,6 +684,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = regimental_camp
 			remove_building = conscription_center
+
+			cancel_construction = regimental_camp
+			cancel_construction = conscription_center
 		}
 		hidden_effect = {
 			country_event = {
@@ -590,6 +700,9 @@ country_event = {
 		every_owned_province = {
 			remove_building = coastal_defence
 			remove_building = naval_battery
+
+			cancel_construction = coastal_defence
+			cancel_construction = naval_battery
 		}
 		hidden_effect = {
 			country_event = {
@@ -609,6 +722,15 @@ country_event = {
 			remove_building = tradecompany
 			remove_building = farm_estate
 			remove_building = mills
+
+			cancel_construction = manufactory
+			cancel_construction = wharf
+			cancel_construction = weapons
+			cancel_construction = textile
+			cancel_construction = plantations
+			cancel_construction = tradecompany
+			cancel_construction = farm_estate
+			cancel_construction = mills
 		}
 		hidden_effect = {
 			country_event = {
@@ -621,6 +743,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.12"
 		every_owned_province = {
 			remove_building = ramparts
+
+			cancel_construction = ramparts
 		}
 		hidden_effect = {
 			country_event = {
@@ -633,6 +757,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.13"
 		every_owned_province = {
 			remove_building = impressment_offices
+
+			cancel_construction = impressment_offices
 		}
 		hidden_effect = {
 			country_event = {
@@ -645,6 +771,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.14"
 		every_owned_province = {
 			remove_building = state_house
+
+			cancel_construction = state_house
 		}
 		hidden_effect = {
 			country_event = {
@@ -657,6 +785,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.15"
 		every_owned_province = {
 			remove_building = soldier_households
+
+			cancel_construction = soldier_households
 		}
 		hidden_effect = {
 			country_event = {
@@ -669,6 +799,8 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.16"
 		every_owned_province = {
 			remove_building = furnace
+
+			cancel_construction = furnace
 		}
 		hidden_effect = {
 			country_event = {
@@ -684,6 +816,8 @@ country_event = {
 		
 		every_owned_province = {
 			remove_building = cannon_foundry
+
+			cancel_construction = cannon_foundry
 		}
 		hidden_effect = {
 			country_event = {
@@ -699,6 +833,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = metalworking_workshop
+
+			cancel_construction = metalworking_workshop
 		}
 		
 		hidden_effect = {
@@ -715,6 +851,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = munition_factory
+
+			cancel_construction = munition_factory
 		}
 
 		hidden_effect = {
@@ -731,6 +869,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = wood_workshop
+
+			cancel_construction = wood_workshop
 		}
 		
 		hidden_effect = {
@@ -747,6 +887,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = leather_workshop
+
+			cancel_construction = leather_workshop
 		}
 		
 		hidden_effect = {
@@ -763,6 +905,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = sculpture_workshop
+
+			cancel_construction = sculpture_workshop
 		}
 		
 		hidden_effect = {
@@ -779,6 +923,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = jewellery_workshop
+
+			cancel_construction = jewellery_workshop
 		}
 		
 		hidden_effect = {
@@ -795,6 +941,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = uniforms_workshop
+
+			cancel_construction = uniforms_workshop
 		}
 		
 		hidden_effect = {
@@ -811,6 +959,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = steam_factory
+
+			cancel_construction = steam_factory
 		}
 		
 		hidden_effect = {
@@ -827,6 +977,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = steam_engine_manu
+
+			cancel_construction = steam_engine_manu
 		}
 		
 		hidden_effect = {
@@ -843,6 +995,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = spectacle_factory
+
+			cancel_construction = spectacle_factory
 		}
 		
 		hidden_effect = {
@@ -859,6 +1013,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = cigars_factory
+
+			cancel_construction = cigars_factory
 		}
 		
 		hidden_effect = {
@@ -875,6 +1031,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = chocolate_factory
+
+			cancel_construction = chocolate_factory
 		}
 		
 		hidden_effect = {
@@ -891,6 +1049,8 @@ country_event = {
 
 		every_owned_province = {
 			remove_building = mine
+
+			cancel_construction = mine
 		}
 		
 		hidden_effect = {
@@ -921,6 +1081,9 @@ country_event = {
 			every_owned_province = {
 				remove_building = temple
 				remove_building = cathedral
+
+				cancel_construction = temple
+				cancel_construction = cathedral
 			}
 		}
 		hidden_effect = {
@@ -939,6 +1102,11 @@ country_event = {
 				remove_building = fort_16th
 				remove_building = fort_17th
 				remove_building = fort_18th
+
+				cancel_construction = fort_15th
+				cancel_construction = fort_16th
+				cancel_construction = fort_17th
+				cancel_construction = fort_18th
 			}
 		}
 		hidden_effect = {
@@ -955,10 +1123,16 @@ country_event = {
 				remove_building = marketplace
 				remove_building = trade_depot
 				remove_building = stock_exchange
+
+				cancel_construction = marketplace
+				cancel_construction = trade_depot
+				cancel_construction = stock_exchange
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -968,10 +1142,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = courthouse
 				remove_building = town_hall
+
+				cancel_construction = courthouse
+				cancel_construction = town_hall
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -981,10 +1160,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = dock
 				remove_building = drydock
+
+				cancel_construction = dock
+				cancel_construction = drydock
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -994,10 +1178,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = shipyard
 				remove_building = grand_shipyard
+
+				cancel_construction = shipyard
+				cancel_construction = grand_shipyard
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1007,10 +1196,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = workshop
 				remove_building = counting_house
+
+				cancel_construction = workshop
+				cancel_construction = counting_house
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1020,10 +1214,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = barracks
 				remove_building = training_fields
+
+				cancel_construction = barracks
+				cancel_construction = training_fields
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1033,10 +1232,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = regimental_camp
 				remove_building = conscription_center
+
+				cancel_construction = regimental_camp
+				cancel_construction = conscription_center
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1046,10 +1250,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = coastal_defence
 				remove_building = naval_battery
+
+				cancel_construction = coastal_defence
+				cancel_construction = naval_battery
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1065,10 +1274,21 @@ country_event = {
 				remove_building = tradecompany
 				remove_building = farm_estate
 				remove_building = mills
+
+				cancel_construction = manufactory
+				cancel_construction = wharf
+				cancel_construction = weapons
+				cancel_construction = textile
+				cancel_construction = plantations
+				cancel_construction = tradecompany
+				cancel_construction = farm_estate
+				cancel_construction = mills
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1077,10 +1297,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = ramparts
+
+				cancel_construction = ramparts
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1089,10 +1313,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = impressment_offices
+
+				cancel_construction = impressment_offices
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1101,10 +1329,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = state_house
+
+				cancel_construction = state_house
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1113,10 +1345,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = soldier_households
+
+				cancel_construction = soldier_households
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1125,10 +1361,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = furnace
+
+				cancel_construction = furnace
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1140,10 +1380,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = cannon_foundry
+
+				cancel_construction = cannon_foundry
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1155,11 +1399,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = metalworking_workshop
+
+				cancel_construction = metalworking_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1171,11 +1419,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = munition_factory
+
+				cancel_construction = munition_factory
 			}
 		}
 
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1187,11 +1439,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = wood_workshop
+
+				cancel_construction = wood_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1203,11 +1459,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = leather_workshop
+
+				cancel_construction = leather_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1219,11 +1479,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = sculpture_workshop
+
+				cancel_construction = sculpture_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1235,11 +1499,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = jewellery_workshop
+
+				cancel_construction = jewellery_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1251,11 +1519,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = uniforms_workshop
+
+				cancel_construction = uniforms_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1267,11 +1539,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = steam_factory
+
+				cancel_construction = steam_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1283,11 +1559,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = steam_engine_manu
+
+				cancel_construction = steam_engine_manu
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1299,11 +1579,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = spectacle_factory
+
+				cancel_construction = spectacle_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1315,11 +1599,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = cigars_factory
+
+				cancel_construction = cigars_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1331,11 +1619,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = chocolate_factory
+
+				cancel_construction = chocolate_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 
@@ -1347,11 +1639,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = mine
+
+				cancel_construction = mine
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.191
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.191
+			}
 		}
 	}
 }
@@ -1375,6 +1671,9 @@ country_event = {
 			every_owned_province = {
 				remove_building = temple
 				remove_building = cathedral
+
+				cancel_construction = temple
+				cancel_construction = cathedral
 			}
 		}
 		hidden_effect = {
@@ -1393,6 +1692,11 @@ country_event = {
 				remove_building = fort_16th
 				remove_building = fort_17th
 				remove_building = fort_18th
+
+				cancel_construction = fort_15th
+				cancel_construction = fort_16th
+				cancel_construction = fort_17th
+				cancel_construction = fort_18th
 			}
 		}
 		hidden_effect = {
@@ -1409,10 +1713,16 @@ country_event = {
 				remove_building = marketplace
 				remove_building = trade_depot
 				remove_building = stock_exchange
+
+				cancel_construction = marketplace
+				cancel_construction = trade_depot
+				cancel_construction = stock_exchange
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1422,10 +1732,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = courthouse
 				remove_building = town_hall
+
+				cancel_construction = courthouse
+				cancel_construction = town_hall
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1435,10 +1750,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = dock
 				remove_building = drydock
+
+				cancel_construction = dock
+				cancel_construction = drydock
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1448,10 +1768,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = shipyard
 				remove_building = grand_shipyard
+
+				cancel_construction = shipyard
+				cancel_construction = grand_shipyard
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1461,10 +1786,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = workshop
 				remove_building = counting_house
+
+				cancel_construction = workshop
+				cancel_construction = counting_house
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1474,10 +1804,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = barracks
 				remove_building = training_fields
+
+				cancel_construction = barracks
+				cancel_construction = training_fields
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1487,10 +1822,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = regimental_camp
 				remove_building = conscription_center
+
+				cancel_construction = regimental_camp
+				cancel_construction = conscription_center
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1500,10 +1840,15 @@ country_event = {
 			every_owned_province = {
 				remove_building = coastal_defence
 				remove_building = naval_battery
+
+				cancel_construction = coastal_defence
+				cancel_construction = naval_battery
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1519,10 +1864,21 @@ country_event = {
 				remove_building = tradecompany
 				remove_building = farm_estate
 				remove_building = mills
+
+				cancel_construction = manufactory
+				cancel_construction = wharf
+				cancel_construction = weapons
+				cancel_construction = textile
+				cancel_construction = plantations
+				cancel_construction = tradecompany
+				cancel_construction = farm_estate
+				cancel_construction = mills
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1531,10 +1887,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = ramparts
+
+				cancel_construction = ramparts
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1543,10 +1903,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = impressment_offices
+
+				cancel_construction = impressment_offices
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1555,10 +1919,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = state_house
+
+				cancel_construction = state_house
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1567,10 +1935,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = soldier_households
+
+				cancel_construction = soldier_households
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1579,10 +1951,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = furnace
+
+				cancel_construction = furnace
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1594,10 +1970,14 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = cannon_foundry
+
+				cancel_construction = cannon_foundry
 			}
 		}
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1609,11 +1989,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = metalworking_workshop
+
+				cancel_construction = metalworking_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1625,11 +2009,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = munition_factory
+
+				cancel_construction = munition_factory
 			}
 		}
 
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1641,11 +2029,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = wood_workshop
+
+				cancel_construction = wood_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1657,11 +2049,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = leather_workshop
+
+				cancel_construction = leather_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1673,11 +2069,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = sculpture_workshop
+
+				cancel_construction = sculpture_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1689,11 +2089,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = jewellery_workshop
+
+				cancel_construction = jewellery_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1705,11 +2109,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = uniforms_workshop
+
+				cancel_construction = uniforms_workshop
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1721,11 +2129,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = steam_factory
+
+				cancel_construction = steam_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1737,11 +2149,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = steam_engine_manu
+
+				cancel_construction = steam_engine_manu
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1753,11 +2169,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = spectacle_factory
+
+				cancel_construction = spectacle_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1769,11 +2189,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = cigars_factory
+
+				cancel_construction = cigars_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1785,11 +2209,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = chocolate_factory
+
+				cancel_construction = chocolate_factory
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 
@@ -1801,11 +2229,15 @@ country_event = {
 		every_subject_country = {
 			every_owned_province = {
 				remove_building = mine
+
+				cancel_construction = mine
 			}
 		}
 		
-		country_event = {
-			id = wreckingpila_buildings_event.100
+		hidden_effect = {
+			country_event = {
+				id = wreckingpila_buildings_event.100
+			}
 		}
 	}
 }
