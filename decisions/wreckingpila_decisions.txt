@@ -41,7 +41,7 @@ country_decisions = {
 		}
 	}
 	
-	wreckingpila_country = {
+	wreckingpila_buildings_country = {
 		major = yes
 		potential = {
 			not = {
@@ -55,14 +55,14 @@ country_decisions = {
 			}
 		}
 		effect = {
-			country_event = { id = wreckingpila_country_event.0 }
+			country_event = { id = wreckingpila_buildings_country_event.0 }
 		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
 	
-	wreckingpila_subjects = {
+	wreckingpila_buildings_subjects = {
 		major = yes
 		potential = {
 			not = {
@@ -82,7 +82,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			country_event = { id = wreckingpila_subjects_event.0 }
+			country_event = { id = wreckingpila_buildings_subjects_event.0 }
 		}
 		ai_will_do = {
 			factor = 0
