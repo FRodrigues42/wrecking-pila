@@ -386,7 +386,7 @@ country_event = {
 	}
 
 	option = {
-		name = "spectacle_factory.tge.11"
+		name = "wreckingpila_buildings_country_event.tge.11"
 
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
@@ -840,7 +840,7 @@ country_event = {
 	}
 
 	option = {
-		name = "spectacle_factory.tge.11"
+		name = "wreckingpila_buildings_country_event.tge.11"
 
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
@@ -1290,7 +1290,7 @@ country_event = {
 	}
 
 	option = {
-		name = "spectacle_factory.tge.11"
+		name = "wreckingpila_buildings_country_event.tge.11"
 
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
@@ -1744,7 +1744,7 @@ country_event = {
 	}
 
 	option = {
-		name = "spectacle_factory.tge.11"
+		name = "wreckingpila_buildings_country_event.tge.11"
 
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
