@@ -100,7 +100,7 @@ can_exploit_tax = {
 	condition = {
 		tooltip = "wreckingpila_can_exploit_tax_tooltip"
 		potential = {
-			has_province_modifier = wreckingpila_exploited
+			always = yes
 		}
 		allow = {
 			always = no 

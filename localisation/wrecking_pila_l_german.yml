@@ -1,7 +1,7 @@
 ﻿l_german:
  # DECISIONS
  wreckingpila_toggle_on_title: "Wrecking Pila - Menu"
- wreckingpilas_toggle_on_desc: "Reveal the Wrecking Pila Menu"
+ wreckingpila_toggle_on_desc: "Reveal the Wrecking Pila Menu"
  wreckingpila_toggle_off_title: "Wrecking Pila - 1. Hide Menu"
  wreckingpila_toggle_off_desc: "Hide the Wrecking Pila Menu"
  wreckingpila_exploit_tax_title: "Wrecking Pila - 2. Exploit Tax Menu"
@@ -50,7 +50,7 @@
  wreckingpila_buildings_subjects_event.desc: "Remove whichever buildings in every of your subjects."
 
  # EXPLOIT EVENTS
- wreckingpila_can_exploit_tax_tooltip: "Tax exploited by Wrecking Pila"
+ wreckingpila_can_exploit_tax_tooltip: "Exploit Tax by using the Wrecking Pila decision"
  wreckingpila_exploited: "Exploited province"
  wreckingpila_exploit_tax_event.title: "Wrecking Pila Exploit [Root.GetName]"
  wreckingpila_exploit_tax_event.desc: "Exploit tax in all your provinces."
