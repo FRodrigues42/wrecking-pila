@@ -1,5 +1,4 @@
 ﻿l_english:
-
  # DECISIONS
  wreckingpila_toggle_on_title: "Wrecking Pila - Menu"
  wreckingpilas_toggle_on_desc: "Reveal the Wrecking Pila Menu"
@@ -45,7 +44,6 @@
  wreckingpila_buildings_country_event.tge.11: "Remove Spectacle Factory buildings"
  wreckingpila_buildings_country_event.tge.12: "Remove Cigars Factory buildings"
  wreckingpila_buildings_country_event.tge.13: "Remove Chocolate Factory buildings"
- wreckingpila_buildings_country_event.tge.14: "Remove Mine buildings"
  
  # SUBJECT BUILDINGS EVENTS
  wreckingpila_buildings_subjects_event.title: "Wrecking Pila [Root.GetAdjective]'s subjects"

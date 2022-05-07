@@ -1,15 +1,17 @@
 ﻿l_french:
- #DECISIONS
+ # DECISIONS
  wreckingpila_toggle_on_title: "Wrecking Pila - Menu"
  wreckingpilas_toggle_on_desc: "Reveal the Wrecking Pila Menu"
- wreckingpila_toggle_off_title: "Wrecking Pila - Hide Menu"
+ wreckingpila_toggle_off_title: "Wrecking Pila - 1. Hide Menu"
  wreckingpila_toggle_off_desc: "Hide the Wrecking Pila Menu"
- wreckingpila_buildings_country_title: "Wrecking Pila - Your buildings Menu"
+ wreckingpila_exploit_tax_title: "Wrecking Pila - 2. Exploit Tax Menu"
+ wreckingpila_exploit_tax_desc: "Launch the event menu to exploit your provinces' tax"
+ wreckingpila_buildings_country_title: "Wrecking Pila - 3. Your Buildings Menu"
  wreckingpila_buildings_country_desc: "Launch the event menu to remove your country's buildings"
- wreckingpila_buildings_subjects_title: "Wrecking Pila - Subjects' buildings Menu"
- wreckingpila_buildings_subjects_desc: "Launch event menu to remove your subjects' buildings"
- 
- #BUILDINGS EVENTS
+ wreckingpila_buildings_subjects_title: "Wrecking Pila - 4. Subjects' Buildings Menu"
+ wreckingpila_buildings_subjects_desc: "Launch the event menu to remove your subjects' buildings"
+
+ # BUILDINGS EVENTS
  wreckingpila_buildings_country_event.title: "Wrecking Pila [Root.GetName]"
  wreckingpila_buildings_country_event.desc: "Remove whichever buildings in your country."
  wreckingpila_buildings_exit: "Exit"
@@ -42,8 +44,24 @@
  wreckingpila_buildings_country_event.tge.11: "Remove Spectacle Factory buildings"
  wreckingpila_buildings_country_event.tge.12: "Remove Cigars Factory buildings"
  wreckingpila_buildings_country_event.tge.13: "Remove Chocolate Factory buildings"
- wreckingpila_buildings_country_event.tge.14: "Remove Mine buildings"
  
  # SUBJECT BUILDINGS EVENTS
  wreckingpila_buildings_subjects_event.title: "Wrecking Pila [Root.GetAdjective]'s subjects"
  wreckingpila_buildings_subjects_event.desc: "Remove whichever buildings in every of your subjects."
+
+ # EXPLOIT EVENTS
+ wreckingpila_can_exploit_tax_tooltip: "Tax exploited by Wrecking Pila"
+ wreckingpila_exploited: "Exploited province"
+ wreckingpila_exploit_tax_event.title: "Wrecking Pila Exploit [Root.GetName]"
+ wreckingpila_exploit_tax_event.desc: "Exploit tax in all your provinces."
+ wreckingpila_exploit_tax_exit: "Exit"
+ wreckingpila_exploit_tax_event.a: "Exploit taxes in your cores"
+ wreckingpila_exploit_tax_event.b: "Exploit taxes in your territories"
+ wreckingpila_exploit_tax_event.a.tt: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.b.tt: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.x: "No available province to exploit taxes"
+ wreckingpila_exploit_tax_event.90.t: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.90.d: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.91.t: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.91.d: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+
