@@ -12,13 +12,13 @@ This is a simple mod that adds decisions and events to:
 
 **NOT Ironman Compatible**
 
-Any sugestions or questions feel free to ask!
+Any suggestions or questions feel free to ask!
 
 ## Notes
 
 If you use this mod you are forced to use my decision to exploit **taxes**. Because the base game does not give a way for mods to find if a province was exploited or not.
 
-**Exploiting sailors and manpower are unchanged.**
+**Sailors and manpower exploitation is unchanged.**
 
 ## Road map
 
@@ -44,17 +44,17 @@ This is a simple mod that adds decisions and events to:
 [*] exploit the taxes of all the available provinces having the choice between core and territorial provinces
 [/list]
 
-[b]TGE suported![/b]
+[b]TGE supported![/b]
 
 [b]NOT Ironman compatible![/b]
 
-Any sugestions or questions feel free to ask!
+Any suggestions or questions feel free to ask!
 
 [h2]Notes[/h2]
 
 If you use this mod you are forced to use my decision to exploit [b]taxes[/b]. Because the base game does not give a way for mods to find if a province was exploited or not.
 
-[b]Exploiting sailors and manpower are unchanged.[/b]
+[b]Sailors and manpower exploitation is unchanged.[/b]
 
 [h2]Compatibility[/h2]
 
