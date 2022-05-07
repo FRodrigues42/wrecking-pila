@@ -511,24 +511,6 @@ country_event = {
 			}
 		}
 	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.14"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = mine
-
-			cancel_construction = mine
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_event.91
-			}
-		}
-	}
 }
 
 country_event = {
@@ -1033,24 +1015,6 @@ country_event = {
 			remove_building = chocolate_factory
 
 			cancel_construction = chocolate_factory
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_event.0
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.14"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_owned_province = {
-			remove_building = mine
-
-			cancel_construction = mine
 		}
 		
 		hidden_effect = {
@@ -1630,26 +1594,6 @@ country_event = {
 			}
 		}
 	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.14"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_subject_country = {
-			every_owned_province = {
-				remove_building = mine
-
-				cancel_construction = mine
-			}
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_event.191
-			}
-		}
-	}
 }
 
 country_event = {
@@ -2211,26 +2155,6 @@ country_event = {
 				remove_building = chocolate_factory
 
 				cancel_construction = chocolate_factory
-			}
-		}
-		
-		hidden_effect = {
-			country_event = {
-				id = wreckingpila_buildings_event.100
-			}
-		}
-	}
-
-	option = {
-		name = "wreckingpila_buildings_country_event.tge.14"
-
-		trigger = { has_global_flag = trade_goods_expanded_mod_active }
-
-		every_subject_country = {
-			every_owned_province = {
-				remove_building = mine
-
-				cancel_construction = mine
 			}
 		}
 		
