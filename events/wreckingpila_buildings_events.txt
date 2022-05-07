@@ -1042,6 +1042,7 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.8"
 		highlight = yes
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = temple
 				remove_building = cathedral
@@ -1061,6 +1062,7 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.9"
 		highlight = yes
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = fort_15th
 				remove_building = fort_16th
@@ -1083,6 +1085,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.1"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = marketplace
 				remove_building = trade_depot
@@ -1103,6 +1106,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.2"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = courthouse
 				remove_building = town_hall
@@ -1121,6 +1125,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.3"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = dock
 				remove_building = drydock
@@ -1139,6 +1144,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.4"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = shipyard
 				remove_building = grand_shipyard
@@ -1157,6 +1163,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.5"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = workshop
 				remove_building = counting_house
@@ -1175,6 +1182,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.6"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = barracks
 				remove_building = training_fields
@@ -1193,6 +1201,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.7"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = regimental_camp
 				remove_building = conscription_center
@@ -1211,6 +1220,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.10"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = coastal_defence
 				remove_building = naval_battery
@@ -1229,6 +1239,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.11"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = manufactory
 				remove_building = wharf
@@ -1259,6 +1270,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.12"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = ramparts
 
@@ -1275,6 +1287,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.13"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = impressment_offices
 
@@ -1291,6 +1304,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.14"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = state_house
 
@@ -1307,6 +1321,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.15"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = soldier_households
 
@@ -1323,6 +1338,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.16"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = furnace
 
@@ -1342,6 +1358,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 		
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = cannon_foundry
 
@@ -1361,6 +1378,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = metalworking_workshop
 
@@ -1381,6 +1399,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = munition_factory
 
@@ -1401,6 +1420,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = wood_workshop
 
@@ -1421,6 +1441,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = leather_workshop
 
@@ -1441,6 +1462,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = sculpture_workshop
 
@@ -1461,6 +1483,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = jewellery_workshop
 
@@ -1481,6 +1504,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = uniforms_workshop
 
@@ -1501,6 +1525,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = steam_factory
 
@@ -1521,6 +1546,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = steam_engine_manu
 
@@ -1541,6 +1567,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = spectacle_factory
 
@@ -1561,6 +1588,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = cigars_factory
 
@@ -1581,6 +1609,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = chocolate_factory
 
@@ -1612,6 +1641,7 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.8"
 		highlight = yes
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = temple
 				remove_building = cathedral
@@ -1631,6 +1661,7 @@ country_event = {
 		name = "wreckingpila_buildings_country_event.9"
 		highlight = yes
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = fort_15th
 				remove_building = fort_16th
@@ -1653,6 +1684,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.1"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = marketplace
 				remove_building = trade_depot
@@ -1673,6 +1705,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.2"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = courthouse
 				remove_building = town_hall
@@ -1691,6 +1724,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.3"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = dock
 				remove_building = drydock
@@ -1709,6 +1743,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.4"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = shipyard
 				remove_building = grand_shipyard
@@ -1727,6 +1762,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.5"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = workshop
 				remove_building = counting_house
@@ -1745,6 +1781,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.6"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = barracks
 				remove_building = training_fields
@@ -1763,6 +1800,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.7"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = regimental_camp
 				remove_building = conscription_center
@@ -1781,6 +1819,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.10"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = coastal_defence
 				remove_building = naval_battery
@@ -1799,6 +1838,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.11"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = manufactory
 				remove_building = wharf
@@ -1829,6 +1869,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.12"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = ramparts
 
@@ -1845,6 +1886,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.13"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = impressment_offices
 
@@ -1861,6 +1903,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.14"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = state_house
 
@@ -1877,6 +1920,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.15"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = soldier_households
 
@@ -1893,6 +1937,7 @@ country_event = {
 	option = {
 		name = "wreckingpila_buildings_country_event.16"
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = furnace
 
@@ -1912,6 +1957,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 		
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = cannon_foundry
 
@@ -1931,6 +1977,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = metalworking_workshop
 
@@ -1951,6 +1998,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = munition_factory
 
@@ -1971,6 +2019,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = wood_workshop
 
@@ -1991,6 +2040,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = leather_workshop
 
@@ -2011,6 +2061,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = sculpture_workshop
 
@@ -2031,6 +2082,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = jewellery_workshop
 
@@ -2051,6 +2103,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = uniforms_workshop
 
@@ -2071,6 +2124,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = steam_factory
 
@@ -2091,6 +2145,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = steam_engine_manu
 
@@ -2111,6 +2166,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = spectacle_factory
 
@@ -2131,6 +2187,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = cigars_factory
 
@@ -2151,6 +2208,7 @@ country_event = {
 		trigger = { has_global_flag = trade_goods_expanded_mod_active }
 
 		every_subject_country = {
+			limit = { ai = yes }
 			every_owned_province = {
 				remove_building = chocolate_factory
 

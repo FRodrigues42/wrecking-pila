@@ -7,9 +7,9 @@
  wreckingpila_toggle_off_desc: "Hide the Wrecking Pila Menu"
  wreckingpila_exploit_tax_title: "Wrecking Pila - 2. Exploit Tax Menu"
  wreckingpila_exploit_tax_desc: "Launch the event menu to exploit your provinces' tax"
- wreckingpila_buildings_country_title: "Wrecking Pila - 3. Your buildings Menu"
+ wreckingpila_buildings_country_title: "Wrecking Pila - 3. Your Buildings Menu"
  wreckingpila_buildings_country_desc: "Launch the event menu to remove your country's buildings"
- wreckingpila_buildings_subjects_title: "Wrecking Pila - 4. Subjects' buildings Menu"
+ wreckingpila_buildings_subjects_title: "Wrecking Pila - 4. Subjects' Buildings Menu"
  wreckingpila_buildings_subjects_desc: "Launch the event menu to remove your subjects' buildings"
 
  # BUILDINGS EVENTS
@@ -57,6 +57,13 @@
  wreckingpila_exploit_tax_event.title: "Wrecking Pila Exploit [Root.GetName]"
  wreckingpila_exploit_tax_event.desc: "Exploit tax in all your provinces."
  wreckingpila_exploit_tax_exit: "Exit"
- wreckingpila_exploit_tax_event.1: "Exploit taxes"
- wreckingpila_exploit_tax_event.90.t: "Exploit taxes and receive §G[From.exploit_money.GetValue]§! ducats"
- wreckingpila_exploit_tax_event.90.d: "Exploit taxes and receive §G[From.exploit_money.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.a: "Exploit taxes in your cores"
+ wreckingpila_exploit_tax_event.b: "Exploit taxes in your territories"
+ wreckingpila_exploit_tax_event.a.tt: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.b.tt: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.x: "No available province to exploit taxes"
+ wreckingpila_exploit_tax_event.90.t: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.90.d: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.91.t: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.91.d: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
+
