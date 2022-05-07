@@ -37,7 +37,7 @@ country_decisions = {
 			clr_country_flag = wreckingpila_on
 		}
 		ai_will_do = {
-			factor = 0
+			factor = 100
 		}
 	}
 	
@@ -83,6 +83,27 @@ country_decisions = {
 		}
 		effect = {
 			country_event = { id = wreckingpila_buildings_event.100 }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+
+	wreckingpila_exploit_tax = {
+		major = yes
+		potential = {
+			not = {
+				ai = yes
+			}
+			has_country_flag = wreckingpila_on
+		}
+		allow = {
+			not = {
+				ai = yes
+			}
+		}
+		effect = {
+			country_event = { id = wreckingpila_exploit_tax_event.0 }
 		}
 		ai_will_do = {
 			factor = 0

@@ -1,0 +1,3 @@
+wreckingpila_exploited = {
+	picture = "exploit_tax"
+}
