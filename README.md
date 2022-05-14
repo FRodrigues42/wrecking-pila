@@ -4,7 +4,7 @@
 
 This is a simple mod that adds decisions and events to:
 
-- remove all buildings of a type for your country
+- remove all buildings of a type for your country cores and territories
 - remove all buildings of a type for your ai subjects
 - exploit the taxes of all the available provinces having the choice between core and territorial provinces
 
@@ -39,7 +39,7 @@ Any mod that does not change the `00_scripted_functions.txt` file in `common/scr
 
 This is a simple mod that adds decisions and events to:
 [list]
-[*] remove all buildings of a type for your country
+[*] remove all buildings of a type for your country cores and territories
 [*] remove all buildings of a type for your ai subjects
 [*] exploit the taxes of all the available provinces having the choice between core and territorial provinces
 [/list]

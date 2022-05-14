@@ -7,3 +7,10 @@ wrecking_pila_controlled_province_can_exploit = {
     base_tax = 2
     NOT = { has_province_modifier = wreckingpila_exploited }
 }
+
+wrecking_pila_province_can_remove = {
+    controlled_by = ROOT
+    is_city = yes
+    has_siege = no
+    is_core = ROOT
+}

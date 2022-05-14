@@ -12,8 +12,14 @@
  wreckingpila_buildings_subjects_desc: "Launch the event menu to remove your subjects' buildings"
 
  # BUILDINGS EVENTS
- wreckingpila_buildings_country_event.title: "Wrecking Pila [Root.GetName]"
- wreckingpila_buildings_country_event.desc: "Remove whichever buildings in your country."
+ wreckingpila_buildings_event.title: "Wrecking Pila [Root.GetName]"
+ wreckingpila_buildings_event.desc: "Remove buildings in your country."
+ wreckingpila_buildings_event.a: "Remove buildings in your cores."
+ wreckingpila_buildings_event.b: "Remove buildings in your territories."
+ wreckingpila_buildings_country_event.title: "Wrecking Pila [Root.GetName] Cores"
+ wreckingpila_buildings_country_event.desc: "Remove whichever buildings in your country cores."
+ wreckingpila_buildings_territory_event.title: "Wrecking Pila [Root.GetName] Territories"
+ wreckingpila_buildings_territory_event.desc: "Remove whichever buildings in your country territories."
  wreckingpila_buildings_exit: "Exit"
  wreckingpila_buildings_country_event.8: "Remove Tax buildings"
  wreckingpila_buildings_country_event.9: "Remove Fort buildings"
