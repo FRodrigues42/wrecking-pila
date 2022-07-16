@@ -74,5 +74,3 @@
  wreckingpila_exploit_tax_event.91.d: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.92.t: "Exploit taxes and receive §G[From.exploit_money_all.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.92.d: "Exploit taxes and receive §G[From.exploit_money_all.GetValue]§! ducats"
-
-
