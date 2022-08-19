@@ -1,0 +1,11 @@
+can_exploit_tax = {
+	condition = {
+		tooltip = "wreckingpila_can_exploit_tax_tooltip"
+		potential = {
+			FROM = { NOT = { has_country_flag = wreckingpila_deactivate } }
+		}
+		allow = {
+			FROM = { has_country_flag = wreckingpila_deactivate }
+		}
+	}
+}

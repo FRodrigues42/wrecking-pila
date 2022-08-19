@@ -96,6 +96,7 @@ country_decisions = {
 				ai = yes
 			}
 			has_country_flag = wreckingpila_on
+			NOT = { has_country_flag = wreckingpila_deactivate }
 		}
 		allow = {
 			not = {

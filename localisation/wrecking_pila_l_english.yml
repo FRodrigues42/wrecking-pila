@@ -1,5 +1,5 @@
 ﻿l_english:
- # DECISIONS
+  # DECISIONS
  wreckingpila_toggle_on_title: "Wrecking Pila - Menu"
  wreckingpila_toggle_on_desc: "Reveal the Wrecking Pila Menu"
  wreckingpila_toggle_off_title: "Wrecking Pila - 1. Hide Menu"
@@ -56,7 +56,7 @@
  wreckingpila_buildings_subjects_event.desc: "Remove whichever buildings in every of your subjects."
 
  # EXPLOIT EVENTS
- wreckingpila_can_exploit_tax_tooltip: "Exploit Tax by using the Wrecking Pila decision"
+ wreckingpila_can_exploit_tax_tooltip: "Exploit Tax by using the §YWrecking Pila§W's decision"
  wreckingpila_exploited: "Exploited province"
  wreckingpila_exploit_tax_event.title: "Wrecking Pila Exploit [Root.GetName]"
  wreckingpila_exploit_tax_event.desc: "Exploit tax in all your provinces."
@@ -64,9 +64,11 @@
  wreckingpila_exploit_tax_event.a: "Exploit taxes in your cores"
  wreckingpila_exploit_tax_event.b: "Exploit taxes in your territories"
  wreckingpila_exploit_tax_event.c: "Exploit taxes in all your provinces"
+ wreckingpila_exploit_tax_event.d: "Permanently Deactivate"
  wreckingpila_exploit_tax_event.a.tt: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.b.tt: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.c.tt: "Exploit taxes and receive §G[From.exploit_money_all.GetValue]§! ducats"
+ wreckingpila_exploit_tax_event.d.tt: "Permanently deactivate Wrecking Pila tax exploit and use base game's UI\n§RExploiting using any other options will remove this option to deactivate§!"
  wreckingpila_exploit_tax_event.x: "No available province to exploit taxes"
  wreckingpila_exploit_tax_event.90.t: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.90.d: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
