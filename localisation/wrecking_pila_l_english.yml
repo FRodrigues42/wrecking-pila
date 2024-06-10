@@ -68,7 +68,7 @@
  wreckingpila_exploit_tax_event.a.tt: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.b.tt: "Exploit taxes and receive §G[From.exploit_money_territory.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.c.tt: "Exploit taxes and receive §G[From.exploit_money_all.GetValue]§! ducats"
- wreckingpila_exploit_tax_event.d.tt: "Permanently deactivate Wrecking Pila tax exploit and use base game's UI\n§RExploiting using any other options will remove this option to deactivate§!"
+ wreckingpila_exploit_tax_event.d.tt: "Permanently deactivate Wrecking Pila tax exploit and use base game's UI\n\n§YUsing any other option to exploit will remove the option to deactivate§!"
  wreckingpila_exploit_tax_event.x: "No available province to exploit taxes"
  wreckingpila_exploit_tax_event.90.t: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
  wreckingpila_exploit_tax_event.90.d: "Exploit taxes and receive §G[From.exploit_money_core.GetValue]§! ducats"
